@@ -1,3 +1,5 @@
+<h1> SafeAndSecure Mobile Application </h1>
+
 SafeAndSecure application is an application that helps educate Singaporeans on the current crime trends in Singapore.
 Building upon the features available in the SGSecure Application, users are able to:
 (1) enroll in a neighbourhood watch program which is an up and coming initiative for Singaporeans to take ownership of the safety of their neighbourhoods

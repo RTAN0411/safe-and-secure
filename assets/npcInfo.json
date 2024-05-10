@@ -1,0 +1,372 @@
+[
+    {
+        "division": "Central Police Division",
+        "coordinates": {"latitude": 1.2788614578255255, "longitude": 103.83987024497543},
+        "stations": [
+            {
+                "name": "Bukit Merah East NPC",
+                "latitude": 1.2798328012371236,
+                "longitude": 103.83904425114146,
+                "hours": "Open 24 Hours",
+                "phone": "+65 1800 236 9999",
+                "address": "391 New Bridge Rd, Block A Police Cantonment Complex, Singapore 088762"
+            },
+            {
+                "name": "Marina Bay NPC",
+                "latitude": 1.2756225888682504,
+                "longitude": 103.84884961250174,
+                "hours": "Open 24 Hours",
+                "phone": "+65 1800 222 9999",
+                "address": "70 Marina View, Singapore 078870"
+            },
+            {
+                "name": "Rochor NPC",
+                "latitude": 1.3086831762021096,
+                "longitude": 103.85425512784259,
+                "hours": "Open 24 Hours",
+                "phone": "+65 6294 9999",
+                "address": "11 Kampong Kapor Rd, Singapore 208678"
+            }            
+        ]
+    },
+    {
+        "division": "Clementi Police Division",
+        "coordinates": {"latitude": 1.3175993010310953, "longitude": 103.78270211243713},
+        "stations": [
+            {
+                "name": "Bukit Merah West NPC",
+                "latitude": 1.286949893634208,
+                "longitude": 103.8234374045426,
+                "hours": "Open 24 hours",
+                "phone": "+65 6377 9999",
+                "address": "500 Bukit Merah View, Singapore 159682"
+            },
+            {
+                "name": "Clementi NPC",
+                "latitude": 1.3175587966202182,
+                "longitude": 103.76678900454328,
+                "hours": "Open 24 hours",
+                "phone": "+65 6377 9999",
+                "address": "20 Clementi Ave 5, Singapore 129858"
+            },
+            {
+                "name": "Jurong East NPC",
+                "latitude": 1.3407659491728472,
+                "longitude": 103.7375004738636,
+                "hours": "Open 24 hours",
+                "phone": "+65 1800 899 9999",
+                "address": "92 Boon Lay Way, Singapore 609962"
+            },
+            {
+                "name": "Queenstown NPC",
+                "latitude": 1.2891860837098292,
+                "longitude": 103.80316717386243,
+                "hours": "Open 24 hours",
+                "phone": "+65 1800 471 9999",
+                "address": "3 Queensway, Singapore 149073"
+            }            
+        ]            
+    },
+    {
+        "division": "Tanglin Police Division",
+        "coordinates": {"latitude": 1.3123735276639719, "longitude": 103.84668619709355},
+        "stations": [
+            {
+                "name": "Bishan NPC",
+                "latitude": 1.3586353465844472,
+                "longitude": 103.84749985114323,
+                "hours": "Open 24 hours",
+                "phone": "+65 1800 552 9999",
+                "address": "20 Bishan Street 23, Singapore 579757"
+            },
+            {
+                "name": "Bukit Timah NPC",
+                "latitude": 1.3240340975464835,
+                "longitude": 103.81256600454344,
+                "hours": "Open 24 hours",
+                "phone": "+65 1800 462 9999",
+                "address": "1 Duke's Rd, Singapore 268914"
+            },
+            {
+                "name": "Kampong Java NPC",
+                "latitude": 1.3130824908614982,
+                "longitude": 103.84662027386294,
+                "hours": "Open 24 hours",
+                "phone": "+65 6295 9999",
+                "address": "21 Kampong Java Rd, Singapore 228892"
+            },
+            {
+                "name": "Orchard NPC",
+                "latitude": 1.2999915795624786,
+                "longitude": 103.83994088920278,
+                "hours": "Open 24 hours",
+                "phone": "+65 1800 735 9999",
+                "address": "51 Killiney Rd, Singapore 239572"
+            },     
+            {
+                "name": "Toa Payoh NPC",
+                "latitude": 1.3357616692924037,
+                "longitude": 103.8504711738635,
+                "hours": "Open 24 hours",
+                "phone": "+65 1800 251 9999",
+                "address": "93 Toa Payoh Central, #01-02 Toa Payoh Central Community Building, Singapore 319194"
+            }         
+        ]            
+    },
+    {
+        "division": "Ang Mo Kio Police Division",
+        "coordinates": {"latitude": 1.3848278158574836, "longitude": 103.86610226825778},
+        "stations": [
+            {
+                "name": "Ang Mo Kio North NPC",
+                "latitude": 1.385471342756109,
+                "longitude": 103.84528460454487,
+                "hours": "Open 24 hours",
+                "phone": "+65 1800 484 9999",
+                "address": "51 Ang Mo Kio Ave 9, Singapore 569784"
+            },
+            {
+                "name": "Ang Mo Kio South NPC",
+                "latitude": 1.3713201820775898,
+                "longitude": 103.85184000454448,
+                "hours": "Open 24 hours",
+                "phone": "+65 1800 451 9999",
+                "address": "81 Ang Mo Kio Ave 3, Singapore 569929"
+            },
+            {
+                "name": "Hougang NPC",
+                "latitude": 1.3754554646488835,
+                "longitude": 103.88515458920449,
+                "hours": "Open 24 hours",
+                "phone": "+65 6489 0999",
+                "address": "60 Hougang Ave 9, Singapore 538775"
+            },
+            {
+                "name": "Punggol NPC",
+                "latitude": 1.3952627626637135,
+                "longitude": 103.91672398978369,
+                "hours": "Open 24 hours",
+                "phone": "+65 1800 604 9999",
+                "address": "21A Tebing Ln, Singapore 828837"
+            },     
+            {
+                "name": "Sembawang NPC",
+                "latitude": 1.4464296268024077,
+                "longitude": 103.81963899716563,
+                "hours": "Open 24 hours",
+                "phone": "+65 1800 554 9999",
+                "address": "4 Sembawang Cres, Singapore 757633"
+            },     
+            {
+                "name": "Sengkang NPC",
+                "latitude": 1.3940354526928038,
+                "longitude": 103.89413586590543,
+                "hours": "Open 24 hours",
+                "phone": "+65 1800 343 8999",
+                "address": "2 Sengkang Square 01-02, 545025"
+            }, 
+            {
+                "name": "Serangoon NPC",
+                "latitude": 1.3529920587337296,
+                "longitude": 103.87065460454407,
+                "hours": "Open 24 hours",
+                "phone": "+65 1800 488 0999",
+                "address": "50 Serangoon Avenue 2, #01-02, Braddell Heights Community Building, Singapore 556129"
+            },   
+            {
+                "name": "Yishun North NPC",
+                "latitude": 1.430511938747582,
+                "longitude": 103.8404023738657,
+                "hours": "Open 24 hours",
+                "phone": "+65 1800 852 9999",
+                "address": "31 Yishun Central, Singapore 768827"
+            },   
+            {
+                "name": "Yishun South NPC",
+                "latitude": 1.41631324630708,
+                "longitude": 103.8350549431852,
+                "hours": "Open 24 hours",
+                "phone": "+65 1800 852 2999",
+                "address": "32 Yishun Street 81, Singapore 768456"
+            }       
+        ]            
+    },
+    {
+        "division": "Bedok Police Division",
+        "coordinates": {"latitude": 1.3357460917727163, "longitude": 103.92224638545254},
+        "stations": [
+            {
+                "name": "Bedok North NPC",
+                "latitude": 1.3337878037387563,
+                "longitude": 103.93710478182287,
+                "hours": "Open 24 hours",
+                "phone": "+65 1800 244 9999",
+                "address": "30 Bedok North Rd, Singapore 469676"
+            },
+            {
+                "name": "Bedok South NPC",
+                "latitude": 1.3249212931993948,
+                "longitude": 103.92005443522365,
+                "hours": "Open 24 hours",
+                "phone": "+65 1800 244 8999",
+                "address": "20 Chai Chee Dr, Singapore 469045"
+            },
+            {
+                "name": "Changi NPC",
+                "latitude": 1.3454948617291036,
+                "longitude": 103.9549466892038,
+                "hours": "Open 24 hours",
+                "phone": "+65 6587 2999",
+                "address": "9 Simei Street 2, Singapore 529914"
+            },
+            {
+                "name": "Geylang NPC",
+                "latitude": 1.3119890831385514,
+                "longitude": 103.88639123522334,
+                "hours": "Open 24 hours",
+                "phone": "+65 1800 848 6999",
+                "address": "1 Cassia Link, Singapore 397618"
+            },
+            {
+                "name": "Marine Parade NPC",
+                "latitude": 1.307441693438097,
+                "longitude": 103.91455494318262,
+                "hours": "Open 24 hours",
+                "phone": "+65 1800 442 8999",
+                "address": "300 Marine Parade Rd, Singapore 449296"
+            },
+            {
+                "name": "Pasir Ris NPC",
+                "latitude": 1.3698764829216925,
+                "longitude": 103.95986180454445,
+                "hours": "Open 24 hours",
+                "phone": "+65 6585 2999",
+                "address": "1 Pasir Ris Drive 4, Singapore 519457"
+            },
+            {
+                "name": "Tampines NPC",
+                "latitude": 1.347331081983986,
+                "longitude": 103.93877065852371,
+                "hours": "Open 24 hours",
+                "phone": "+65 6587 1999",
+                "address": "6 Tampines Ave 4, Singapore 529682"
+            }           
+        ]            
+    },
+    {
+        "division": "Jurong Police Division",
+        "coordinates": {"latitude": 1.3714122677615763, "longitude": 103.75229272778073},
+        "stations": [
+            {
+                "name": "Bukit Batok NPC",
+                "latitude": 1.3503535735650627,
+                "longitude": 103.75861158920391,
+                "hours": "Open 24 hours",
+                "phone": "+65 1800 665 9999",
+                "address": "21 Bukit Batok East Ave 4, Singapore 659840"
+            },
+            {
+                "name": "Bukit Panjang NPC",
+                "latitude": 1.387607844694021,
+                "longitude": 103.77196738124539,
+                "hours": "Open 24 hours",
+                "phone": "+65 1800 892 9999",
+                "address": "1 Segar Rd, #01-05 Community Building, Singapore 677738"
+            },
+            {
+                "name": "Choa Chu Kang NPC",
+                "latitude": 1.3959103360266327,
+                "longitude": 103.74469601250449,
+                "hours": "Open 24 hours",
+                "phone": "+65 1800 765 9999",
+                "address": "No 20 Choa Chu Kang Street 52, #01-02, Singapore 689286"
+            },
+            {
+                "name": "Jurong West NPC",
+                "latitude": 1.3506795837338725,
+                "longitude": 103.71461058920393,
+                "hours": "Open 24 hours",
+                "phone": "+65 1800 268 9999",
+                "address": "700 Corporation Rd, Singapore 649818"
+            },
+            {
+                "name": "Nanyang NPC",
+                "latitude": 1.3521003727428296,
+                "longitude": 103.70235475852378,
+                "hours": "Open 24 hours",
+                "phone": "+65 6792 9999",
+                "address": "2 Jurong West Ave 5, Singapore 649482"
+            },
+            {
+                "name": "Woodlands NPC",
+                "latitude": 1.44229781781499,
+                "longitude": 103.777878524924006,
+                "hours": "Open 24 hours",
+                "phone": "+65 1800 363 9999",
+                "address": "1 Woodlands Street 12, Singapore 738619"
+            },
+            {
+                "name": "Woodlands East NPC",
+                "latitude": 1.4413478004555604,
+                "longitude": 103.80220485499183,
+                "hours": "Open 24 hours",
+                "phone": "+65 6767 9999",
+                "address": "3 Woodlands Drive 63, Singapore 737890"
+            },
+            {
+                "name": "Woodlands West NPC",
+                "latitude": 1.4342391348298638,
+                "longitude": 103.77900627386582,
+                "hours": "Open 24 hours",
+                "phone": "+65 1800 363 9999",
+                "address": "1 Woodlands Street 12, Singapore 738619"
+            }             
+        ]            
+    },
+    {
+        "division": "Woodlands Police Division",
+        "coordinates": {"latitude": 1.4051664066032883, "longitude": 103.80903320046464},
+        "stations": [
+            {
+                "name": "Woodlands East NPC",
+                "latitude": 1.4413478004555604,
+                "longitude": 103.80220485499183,
+                "hours": "Open 24 hours",
+                "phone": "+65 6767 9999",
+                "address": "3 Woodlands Drive 63, Singapore 737890"
+            },
+            {
+                "name": "Woodlands West NPC",
+                "latitude": 1.4342391348298638,
+                "longitude": 103.77900627386582,
+                "hours": "Open 24 hours",
+                "phone": "+65 1800 363 9999",
+                "address": "1 Woodlands Street 12, Singapore 738619"
+            },     
+            {
+                "name": "Yishun North NPC",
+                "latitude": 1.430511938747582,
+                "longitude": 103.8404023738657,
+                "hours": "Open 24 hours",
+                "phone": "+65 1800 852 9999",
+                "address": "31 Yishun Central, Singapore 768827"
+            },   
+            {
+                "name": "Yishun South NPC",
+                "latitude": 1.41631324630708,
+                "longitude": 103.8350549431852,
+                "hours": "Open 24 hours",
+                "phone": "+65 1800 852 2999",
+                "address": "32 Yishun Street 81, Singapore 768456"
+            }, 
+            {
+                "name": "Sembawang NPC",
+                "latitude": 1.4465154301387595,
+                "longitude": 103.81968191250573,
+                "hours": "Open 24 hours",
+                "phone": "+65 1800 554 9999",
+                "address": "4 Sembawang Cres, Singapore 757633"
+            }               
+        ]            
+    }
+]

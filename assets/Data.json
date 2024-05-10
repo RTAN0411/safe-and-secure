@@ -1,0 +1,2402 @@
+[
+  {
+    "year": 2011,
+    "level_1": "Central Police Division - Total",
+    "value": 373
+  },
+  {
+    "year": 2011,
+    "level_1": "Central Police Division - Bukit Merah East NPC",
+    "value": 124
+  },
+  {
+    "year": 2011,
+    "level_1": "Central Police Division - Marina Bay NPC",
+    "value": 125
+  },
+  {
+    "year": 2011,
+    "level_1": "Central Police Division - Rochor NPC",
+    "value": 124
+  },
+  {
+    "year": 2011,
+    "level_1": "Clementi Police Division - Total",
+    "value": 380
+  },
+  {
+    "year": 2011,
+    "level_1": "Clementi Police Division - Bukit Merah West NPC",
+    "value": 135
+  },
+  {
+    "year": 2011,
+    "level_1": "Clementi Police Division - Clementi NPC",
+    "value": 73
+  },
+  {
+    "year": 2011,
+    "level_1": "Clementi Police Division - Jurong East NPC",
+    "value": 83
+  },
+  {
+    "year": 2011,
+    "level_1": "Clementi Police Division - Queenstown NPC",
+    "value": 89
+  },
+  {
+    "year": 2011,
+    "level_1": "Tanglin Police Division - Total",
+    "value": 423
+  },
+  {
+    "year": 2011,
+    "level_1": "Tanglin Police Division - Bishan NPC",
+    "value": 67
+  },
+  {
+    "year": 2011,
+    "level_1": "Tanglin Police Division - Bukit Timah NPC",
+    "value": 32
+  },
+  {
+    "year": 2011,
+    "level_1": "Tanglin Police Division - Kampong Java NPC",
+    "value": 52
+  },
+  {
+    "year": 2011,
+    "level_1": "Tanglin Police Division - Orchard NPC",
+    "value": 156
+  },
+  {
+    "year": 2011,
+    "level_1": "Tanglin Police Division - Toa Payoh NPC",
+    "value": 116
+  },
+  {
+    "year": 2011,
+    "level_1": "Ang Mo Kio Police Division - Total",
+    "value": 625
+  },
+  {
+    "year": 2011,
+    "level_1": "Ang Mo Kio Police Division - Ang Mo Kio North NPC",
+    "value": 74
+  },
+  {
+    "year": 2011,
+    "level_1": "Ang Mo Kio Police Division - Ang Mo Kio South NPC",
+    "value": 59
+  },
+  {
+    "year": 2011,
+    "level_1": "Ang Mo Kio Police Division - Hougang NPC",
+    "value": 128
+  },
+  {
+    "year": 2011,
+    "level_1": "Ang Mo Kio Police Division - Punggol NPC",
+    "value": "-"
+  },
+  {
+    "year": 2011,
+    "level_1": "Ang Mo Kio Police Division - Sembawang NPC",
+    "value": 39
+  },
+  {
+    "year": 2011,
+    "level_1": "Ang Mo Kio Police Division - Sengkang NPC",
+    "value": 115
+  },
+  {
+    "year": 2011,
+    "level_1": "Ang Mo Kio Police Division - Serangoon NPC",
+    "value": 72
+  },
+  {
+    "year": 2011,
+    "level_1": "Ang Mo Kio Police Division - Yishun North NPC",
+    "value": 91
+  },
+  {
+    "year": 2011,
+    "level_1": "Ang Mo Kio Police Division - Yishun South NPC",
+    "value": 47
+  },
+  {
+    "year": 2011,
+    "level_1": "Bedok Police Division - Total",
+    "value": 830
+  },
+  {
+    "year": 2011,
+    "level_1": "Bedok Police Division - Bedok North NPC",
+    "value": 130
+  },
+  {
+    "year": 2011,
+    "level_1": "Bedok Police Division - Bedok South NPC",
+    "value": 69
+  },
+  {
+    "year": 2011,
+    "level_1": "Bedok Police Division - Changi NPC",
+    "value": 76
+  },
+  {
+    "year": 2011,
+    "level_1": "Bedok Police Division - Geylang NPC",
+    "value": 260
+  },
+  {
+    "year": 2011,
+    "level_1": "Bedok Police Division - Marine Parade NPC",
+    "value": 77
+  },
+  {
+    "year": 2011,
+    "level_1": "Bedok Police Division - Pasir Ris NPC",
+    "value": 84
+  },
+  {
+    "year": 2011,
+    "level_1": "Bedok Police Division - Tampines NPC",
+    "value": 134
+  },
+  {
+    "year": 2011,
+    "level_1": "Jurong Police Division - Total",
+    "value": 799
+  },
+  {
+    "year": 2011,
+    "level_1": "Jurong Police Division - Bukit Batok NPC",
+    "value": 114
+  },
+  {
+    "year": 2011,
+    "level_1": "Jurong Police Division - Bukit Panjang NPC",
+    "value": 55
+  },
+  {
+    "year": 2011,
+    "level_1": "Jurong Police Division - Choa Chu Kang NPC",
+    "value": 120
+  },
+  {
+    "year": 2011,
+    "level_1": "Jurong Police Division - Jurong West NPC",
+    "value": 129
+  },
+  {
+    "year": 2011,
+    "level_1": "Jurong Police Division - Nanyang NPC",
+    "value": 140
+  },
+  {
+    "year": 2011,
+    "level_1": "Jurong Police Division - Woodlands NPC",
+    "value": 241
+  },
+  {
+    "year": 2011,
+    "level_1": "Jurong Police Division - Woodlands East NPC",
+    "value": "-"
+  },
+  {
+    "year": 2011,
+    "level_1": "Jurong Police Division - Woodlands West NPC",
+    "value": "-"
+  },
+  {
+    "year": 2011,
+    "level_1": "Woodlands Police Division - Total",
+    "value": "-"
+  },
+  {
+    "year": 2011,
+    "level_1": "Woodlands Police Division - Woodlands East NPC",
+    "value": "-"
+  },
+  {
+    "year": 2011,
+    "level_1": "Woodlands Police Division - Woodlands West NPC",
+    "value": "-"
+  },
+  {
+    "year": 2011,
+    "level_1": "Woodlands Police Division - Yishun North NPC",
+    "value": "-"
+  },
+  {
+    "year": 2011,
+    "level_1": "Woodlands Police Division - Yishun South NPC",
+    "value": "-"
+  },
+  {
+    "year": 2011,
+    "level_1": "Woodlands Police Division - Sembawang NPC",
+    "value": "-"
+  },
+  {
+    "year": 2012,
+    "level_1": "Central Police Division - Total",
+    "value": 337
+  },
+  {
+    "year": 2012,
+    "level_1": "Central Police Division - Bukit Merah East NPC",
+    "value": 84
+  },
+  {
+    "year": 2012,
+    "level_1": "Central Police Division - Marina Bay NPC",
+    "value": 106
+  },
+  {
+    "year": 2012,
+    "level_1": "Central Police Division - Rochor NPC",
+    "value": 147
+  },
+  {
+    "year": 2012,
+    "level_1": "Clementi Police Division - Total",
+    "value": 346
+  },
+  {
+    "year": 2012,
+    "level_1": "Clementi Police Division - Bukit Merah West NPC",
+    "value": 105
+  },
+  {
+    "year": 2012,
+    "level_1": "Clementi Police Division - Clementi NPC",
+    "value": 81
+  },
+  {
+    "year": 2012,
+    "level_1": "Clementi Police Division - Jurong East NPC",
+    "value": 67
+  },
+  {
+    "year": 2012,
+    "level_1": "Clementi Police Division - Queenstown NPC",
+    "value": 93
+  },
+  {
+    "year": 2012,
+    "level_1": "Tanglin Police Division - Total",
+    "value": 406
+  },
+  {
+    "year": 2012,
+    "level_1": "Tanglin Police Division - Bishan NPC",
+    "value": 43
+  },
+  {
+    "year": 2012,
+    "level_1": "Tanglin Police Division - Bukit Timah NPC",
+    "value": 48
+  },
+  {
+    "year": 2012,
+    "level_1": "Tanglin Police Division - Kampong Java NPC",
+    "value": 65
+  },
+  {
+    "year": 2012,
+    "level_1": "Tanglin Police Division - Orchard NPC",
+    "value": 162
+  },
+  {
+    "year": 2012,
+    "level_1": "Tanglin Police Division - Toa Payoh NPC",
+    "value": 88
+  },
+  {
+    "year": 2012,
+    "level_1": "Ang Mo Kio Police Division - Total",
+    "value": 580
+  },
+  {
+    "year": 2012,
+    "level_1": "Ang Mo Kio Police Division - Ang Mo Kio North NPC",
+    "value": 61
+  },
+  {
+    "year": 2012,
+    "level_1": "Ang Mo Kio Police Division - Ang Mo Kio South NPC",
+    "value": 71
+  },
+  {
+    "year": 2012,
+    "level_1": "Ang Mo Kio Police Division - Hougang NPC",
+    "value": 119
+  },
+  {
+    "year": 2012,
+    "level_1": "Ang Mo Kio Police Division - Punggol NPC",
+    "value": "-"
+  },
+  {
+    "year": 2012,
+    "level_1": "Ang Mo Kio Police Division - Sembawang NPC",
+    "value": 57
+  },
+  {
+    "year": 2012,
+    "level_1": "Ang Mo Kio Police Division - Sengkang NPC",
+    "value": 87
+  },
+  {
+    "year": 2012,
+    "level_1": "Ang Mo Kio Police Division - Serangoon NPC",
+    "value": 66
+  },
+  {
+    "year": 2012,
+    "level_1": "Ang Mo Kio Police Division - Yishun North NPC",
+    "value": 72
+  },
+  {
+    "year": 2012,
+    "level_1": "Ang Mo Kio Police Division - Yishun South NPC",
+    "value": 47
+  },
+  {
+    "year": 2012,
+    "level_1": "Bedok Police Division - Total",
+    "value": 764
+  },
+  {
+    "year": 2012,
+    "level_1": "Bedok Police Division - Bedok North NPC",
+    "value": 119
+  },
+  {
+    "year": 2012,
+    "level_1": "Bedok Police Division - Bedok South NPC",
+    "value": 99
+  },
+  {
+    "year": 2012,
+    "level_1": "Bedok Police Division - Changi NPC",
+    "value": 59
+  },
+  {
+    "year": 2012,
+    "level_1": "Bedok Police Division - Geylang NPC",
+    "value": 273
+  },
+  {
+    "year": 2012,
+    "level_1": "Bedok Police Division - Marine Parade NPC",
+    "value": 52
+  },
+  {
+    "year": 2012,
+    "level_1": "Bedok Police Division - Pasir Ris NPC",
+    "value": 64
+  },
+  {
+    "year": 2012,
+    "level_1": "Bedok Police Division - Tampines NPC",
+    "value": 98
+  },
+  {
+    "year": 2012,
+    "level_1": "Jurong Police Division - Total",
+    "value": 664
+  },
+  {
+    "year": 2012,
+    "level_1": "Jurong Police Division - Bukit Batok NPC",
+    "value": 67
+  },
+  {
+    "year": 2012,
+    "level_1": "Jurong Police Division - Bukit Panjang NPC",
+    "value": 56
+  },
+  {
+    "year": 2012,
+    "level_1": "Jurong Police Division - Choa Chu Kang NPC",
+    "value": 82
+  },
+  {
+    "year": 2012,
+    "level_1": "Jurong Police Division - Jurong West NPC",
+    "value": 130
+  },
+  {
+    "year": 2012,
+    "level_1": "Jurong Police Division - Nanyang NPC",
+    "value": 97
+  },
+  {
+    "year": 2012,
+    "level_1": "Jurong Police Division - Woodlands NPC",
+    "value": "-"
+  },
+  {
+    "year": 2012,
+    "level_1": "Jurong Police Division - Woodlands East NPC",
+    "value": 114
+  },
+  {
+    "year": 2012,
+    "level_1": "Jurong Police Division - Woodlands West NPC",
+    "value": 118
+  },
+  {
+    "year": 2012,
+    "level_1": "Woodlands Police Division - Total",
+    "value": "-"
+  },
+  {
+    "year": 2012,
+    "level_1": "Woodlands Police Division - Woodlands East NPC",
+    "value": "-"
+  },
+  {
+    "year": 2012,
+    "level_1": "Woodlands Police Division - Woodlands West NPC",
+    "value": "-"
+  },
+  {
+    "year": 2012,
+    "level_1": "Woodlands Police Division - Yishun North NPC",
+    "value": "-"
+  },
+  {
+    "year": 2012,
+    "level_1": "Woodlands Police Division - Yishun South NPC",
+    "value": "-"
+  },
+  {
+    "year": 2012,
+    "level_1": "Woodlands Police Division - Sembawang NPC",
+    "value": "-"
+  },
+  {
+    "year": 2013,
+    "level_1": "Central Police Division - Total",
+    "value": 333
+  },
+  {
+    "year": 2013,
+    "level_1": "Central Police Division - Bukit Merah East NPC",
+    "value": 95
+  },
+  {
+    "year": 2013,
+    "level_1": "Central Police Division - Marina Bay NPC",
+    "value": 92
+  },
+  {
+    "year": 2013,
+    "level_1": "Central Police Division - Rochor NPC",
+    "value": 146
+  },
+  {
+    "year": 2013,
+    "level_1": "Clementi Police Division - Total",
+    "value": 299
+  },
+  {
+    "year": 2013,
+    "level_1": "Clementi Police Division - Bukit Merah West NPC",
+    "value": 82
+  },
+  {
+    "year": 2013,
+    "level_1": "Clementi Police Division - Clementi NPC",
+    "value": 60
+  },
+  {
+    "year": 2013,
+    "level_1": "Clementi Police Division - Jurong East NPC",
+    "value": 73
+  },
+  {
+    "year": 2013,
+    "level_1": "Clementi Police Division - Queenstown NPC",
+    "value": 84
+  },
+  {
+    "year": 2013,
+    "level_1": "Tanglin Police Division - Total",
+    "value": 370
+  },
+  {
+    "year": 2013,
+    "level_1": "Tanglin Police Division - Bishan NPC",
+    "value": 57
+  },
+  {
+    "year": 2013,
+    "level_1": "Tanglin Police Division - Bukit Timah NPC",
+    "value": 38
+  },
+  {
+    "year": 2013,
+    "level_1": "Tanglin Police Division - Kampong Java NPC",
+    "value": 63
+  },
+  {
+    "year": 2013,
+    "level_1": "Tanglin Police Division - Orchard NPC",
+    "value": 135
+  },
+  {
+    "year": 2013,
+    "level_1": "Tanglin Police Division - Toa Payoh NPC",
+    "value": 77
+  },
+  {
+    "year": 2013,
+    "level_1": "Ang Mo Kio Police Division - Total",
+    "value": 403
+  },
+  {
+    "year": 2013,
+    "level_1": "Ang Mo Kio Police Division - Ang Mo Kio North NPC",
+    "value": 42
+  },
+  {
+    "year": 2013,
+    "level_1": "Ang Mo Kio Police Division - Ang Mo Kio South NPC",
+    "value": 35
+  },
+  {
+    "year": 2013,
+    "level_1": "Ang Mo Kio Police Division - Hougang NPC",
+    "value": 84
+  },
+  {
+    "year": 2013,
+    "level_1": "Ang Mo Kio Police Division - Punggol NPC",
+    "value": 20
+  },
+  {
+    "year": 2013,
+    "level_1": "Ang Mo Kio Police Division - Sembawang NPC",
+    "value": 31
+  },
+  {
+    "year": 2013,
+    "level_1": "Ang Mo Kio Police Division - Sengkang NPC",
+    "value": 54
+  },
+  {
+    "year": 2013,
+    "level_1": "Ang Mo Kio Police Division - Serangoon NPC",
+    "value": 35
+  },
+  {
+    "year": 2013,
+    "level_1": "Ang Mo Kio Police Division - Yishun North NPC",
+    "value": 74
+  },
+  {
+    "year": 2013,
+    "level_1": "Ang Mo Kio Police Division - Yishun South NPC",
+    "value": 28
+  },
+  {
+    "year": 2013,
+    "level_1": "Bedok Police Division - Total",
+    "value": 695
+  },
+  {
+    "year": 2013,
+    "level_1": "Bedok Police Division - Bedok North NPC",
+    "value": 108
+  },
+  {
+    "year": 2013,
+    "level_1": "Bedok Police Division - Bedok South NPC",
+    "value": 65
+  },
+  {
+    "year": 2013,
+    "level_1": "Bedok Police Division - Changi NPC",
+    "value": 68
+  },
+  {
+    "year": 2013,
+    "level_1": "Bedok Police Division - Geylang NPC",
+    "value": 234
+  },
+  {
+    "year": 2013,
+    "level_1": "Bedok Police Division - Marine Parade NPC",
+    "value": 62
+  },
+  {
+    "year": 2013,
+    "level_1": "Bedok Police Division - Pasir Ris NPC",
+    "value": 59
+  },
+  {
+    "year": 2013,
+    "level_1": "Bedok Police Division - Tampines NPC",
+    "value": 99
+  },
+  {
+    "year": 2013,
+    "level_1": "Jurong Police Division - Total",
+    "value": 614
+  },
+  {
+    "year": 2013,
+    "level_1": "Jurong Police Division - Bukit Batok NPC",
+    "value": 74
+  },
+  {
+    "year": 2013,
+    "level_1": "Jurong Police Division - Bukit Panjang NPC",
+    "value": 49
+  },
+  {
+    "year": 2013,
+    "level_1": "Jurong Police Division - Choa Chu Kang NPC",
+    "value": 95
+  },
+  {
+    "year": 2013,
+    "level_1": "Jurong Police Division - Jurong West NPC",
+    "value": 97
+  },
+  {
+    "year": 2013,
+    "level_1": "Jurong Police Division - Nanyang NPC",
+    "value": 119
+  },
+  {
+    "year": 2013,
+    "level_1": "Jurong Police Division - Woodlands NPC",
+    "value": "-"
+  },
+  {
+    "year": 2013,
+    "level_1": "Jurong Police Division - Woodlands East NPC",
+    "value": 93
+  },
+  {
+    "year": 2013,
+    "level_1": "Jurong Police Division - Woodlands West NPC",
+    "value": 87
+  },
+  {
+    "year": 2013,
+    "level_1": "Woodlands Police Division - Total",
+    "value": "-"
+  },
+  {
+    "year": 2013,
+    "level_1": "Woodlands Police Division - Woodlands East NPC",
+    "value": "-"
+  },
+  {
+    "year": 2013,
+    "level_1": "Woodlands Police Division - Woodlands West NPC",
+    "value": "-"
+  },
+  {
+    "year": 2013,
+    "level_1": "Woodlands Police Division - Yishun North NPC",
+    "value": "-"
+  },
+  {
+    "year": 2013,
+    "level_1": "Woodlands Police Division - Yishun South NPC",
+    "value": "-"
+  },
+  {
+    "year": 2013,
+    "level_1": "Woodlands Police Division - Sembawang NPC",
+    "value": "-"
+  },
+  {
+    "year": 2014,
+    "level_1": "Central Police Division - Total",
+    "value": 342
+  },
+  {
+    "year": 2014,
+    "level_1": "Central Police Division - Bukit Merah East NPC",
+    "value": 103
+  },
+  {
+    "year": 2014,
+    "level_1": "Central Police Division - Marina Bay NPC",
+    "value": 113
+  },
+  {
+    "year": 2014,
+    "level_1": "Central Police Division - Rochor NPC",
+    "value": 126
+  },
+  {
+    "year": 2014,
+    "level_1": "Clementi Police Division - Total",
+    "value": 262
+  },
+  {
+    "year": 2014,
+    "level_1": "Clementi Police Division - Bukit Merah West NPC",
+    "value": 66
+  },
+  {
+    "year": 2014,
+    "level_1": "Clementi Police Division - Clementi NPC",
+    "value": 71
+  },
+  {
+    "year": 2014,
+    "level_1": "Clementi Police Division - Jurong East NPC",
+    "value": 68
+  },
+  {
+    "year": 2014,
+    "level_1": "Clementi Police Division - Queenstown NPC",
+    "value": 57
+  },
+  {
+    "year": 2014,
+    "level_1": "Tanglin Police Division - Total",
+    "value": 324
+  },
+  {
+    "year": 2014,
+    "level_1": "Tanglin Police Division - Bishan NPC",
+    "value": 35
+  },
+  {
+    "year": 2014,
+    "level_1": "Tanglin Police Division - Bukit Timah NPC",
+    "value": 40
+  },
+  {
+    "year": 2014,
+    "level_1": "Tanglin Police Division - Kampong Java NPC",
+    "value": 51
+  },
+  {
+    "year": 2014,
+    "level_1": "Tanglin Police Division - Orchard NPC",
+    "value": 138
+  },
+  {
+    "year": 2014,
+    "level_1": "Tanglin Police Division - Toa Payoh NPC",
+    "value": 60
+  },
+  {
+    "year": 2014,
+    "level_1": "Ang Mo Kio Police Division - Total",
+    "value": 366
+  },
+  {
+    "year": 2014,
+    "level_1": "Ang Mo Kio Police Division - Ang Mo Kio North NPC",
+    "value": 45
+  },
+  {
+    "year": 2014,
+    "level_1": "Ang Mo Kio Police Division - Ang Mo Kio South NPC",
+    "value": 41
+  },
+  {
+    "year": 2014,
+    "level_1": "Ang Mo Kio Police Division - Hougang NPC",
+    "value": 55
+  },
+  {
+    "year": 2014,
+    "level_1": "Ang Mo Kio Police Division - Punggol NPC",
+    "value": 14
+  },
+  {
+    "year": 2014,
+    "level_1": "Ang Mo Kio Police Division - Sembawang NPC",
+    "value": 34
+  },
+  {
+    "year": 2014,
+    "level_1": "Ang Mo Kio Police Division - Sengkang NPC",
+    "value": 57
+  },
+  {
+    "year": 2014,
+    "level_1": "Ang Mo Kio Police Division - Serangoon NPC",
+    "value": 46
+  },
+  {
+    "year": 2014,
+    "level_1": "Ang Mo Kio Police Division - Yishun North NPC",
+    "value": 50
+  },
+  {
+    "year": 2014,
+    "level_1": "Ang Mo Kio Police Division - Yishun South NPC",
+    "value": 24
+  },
+  {
+    "year": 2014,
+    "level_1": "Bedok Police Division - Total",
+    "value": 562
+  },
+  {
+    "year": 2014,
+    "level_1": "Bedok Police Division - Bedok North NPC",
+    "value": 95
+  },
+  {
+    "year": 2014,
+    "level_1": "Bedok Police Division - Bedok South NPC",
+    "value": 55
+  },
+  {
+    "year": 2014,
+    "level_1": "Bedok Police Division - Changi NPC",
+    "value": 48
+  },
+  {
+    "year": 2014,
+    "level_1": "Bedok Police Division - Geylang NPC",
+    "value": 191
+  },
+  {
+    "year": 2014,
+    "level_1": "Bedok Police Division - Marine Parade NPC",
+    "value": 39
+  },
+  {
+    "year": 2014,
+    "level_1": "Bedok Police Division - Pasir Ris NPC",
+    "value": 49
+  },
+  {
+    "year": 2014,
+    "level_1": "Bedok Police Division - Tampines NPC",
+    "value": 85
+  },
+  {
+    "year": 2014,
+    "level_1": "Jurong Police Division - Total",
+    "value": 524
+  },
+  {
+    "year": 2014,
+    "level_1": "Jurong Police Division - Bukit Batok NPC",
+    "value": 44
+  },
+  {
+    "year": 2014,
+    "level_1": "Jurong Police Division - Bukit Panjang NPC",
+    "value": 44
+  },
+  {
+    "year": 2014,
+    "level_1": "Jurong Police Division - Choa Chu Kang NPC",
+    "value": 60
+  },
+  {
+    "year": 2014,
+    "level_1": "Jurong Police Division - Jurong West NPC",
+    "value": 100
+  },
+  {
+    "year": 2014,
+    "level_1": "Jurong Police Division - Nanyang NPC",
+    "value": 78
+  },
+  {
+    "year": 2014,
+    "level_1": "Jurong Police Division - Woodlands NPC",
+    "value": "-"
+  },
+  {
+    "year": 2014,
+    "level_1": "Jurong Police Division - Woodlands East NPC",
+    "value": 107
+  },
+  {
+    "year": 2014,
+    "level_1": "Jurong Police Division - Woodlands West NPC",
+    "value": 91
+  },
+  {
+    "year": 2014,
+    "level_1": "Woodlands Police Division - Total",
+    "value": "-"
+  },
+  {
+    "year": 2014,
+    "level_1": "Woodlands Police Division - Woodlands East NPC",
+    "value": "-"
+  },
+  {
+    "year": 2014,
+    "level_1": "Woodlands Police Division - Woodlands West NPC",
+    "value": "-"
+  },
+  {
+    "year": 2014,
+    "level_1": "Woodlands Police Division - Yishun North NPC",
+    "value": "-"
+  },
+  {
+    "year": 2014,
+    "level_1": "Woodlands Police Division - Yishun South NPC",
+    "value": "-"
+  },
+  {
+    "year": 2014,
+    "level_1": "Woodlands Police Division - Sembawang NPC",
+    "value": "-"
+  },
+  {
+    "year": 2015,
+    "level_1": "Central Police Division - Total",
+    "value": 304
+  },
+  {
+    "year": 2015,
+    "level_1": "Central Police Division - Bukit Merah East NPC",
+    "value": 83
+  },
+  {
+    "year": 2015,
+    "level_1": "Central Police Division - Marina Bay NPC",
+    "value": 112
+  },
+  {
+    "year": 2015,
+    "level_1": "Central Police Division - Rochor NPC",
+    "value": 109
+  },
+  {
+    "year": 2015,
+    "level_1": "Clementi Police Division - Total",
+    "value": 206
+  },
+  {
+    "year": 2015,
+    "level_1": "Clementi Police Division - Bukit Merah West NPC",
+    "value": 48
+  },
+  {
+    "year": 2015,
+    "level_1": "Clementi Police Division - Clementi NPC",
+    "value": 54
+  },
+  {
+    "year": 2015,
+    "level_1": "Clementi Police Division - Jurong East NPC",
+    "value": 52
+  },
+  {
+    "year": 2015,
+    "level_1": "Clementi Police Division - Queenstown NPC",
+    "value": 52
+  },
+  {
+    "year": 2015,
+    "level_1": "Tanglin Police Division - Total",
+    "value": 260
+  },
+  {
+    "year": 2015,
+    "level_1": "Tanglin Police Division - Bishan NPC",
+    "value": 29
+  },
+  {
+    "year": 2015,
+    "level_1": "Tanglin Police Division - Bukit Timah NPC",
+    "value": 29
+  },
+  {
+    "year": 2015,
+    "level_1": "Tanglin Police Division - Kampong Java NPC",
+    "value": 43
+  },
+  {
+    "year": 2015,
+    "level_1": "Tanglin Police Division - Orchard NPC",
+    "value": 108
+  },
+  {
+    "year": 2015,
+    "level_1": "Tanglin Police Division - Toa Payoh NPC",
+    "value": 51
+  },
+  {
+    "year": 2015,
+    "level_1": "Ang Mo Kio Police Division - Total",
+    "value": 380
+  },
+  {
+    "year": 2015,
+    "level_1": "Ang Mo Kio Police Division - Ang Mo Kio North NPC",
+    "value": 31
+  },
+  {
+    "year": 2015,
+    "level_1": "Ang Mo Kio Police Division - Ang Mo Kio South NPC",
+    "value": 39
+  },
+  {
+    "year": 2015,
+    "level_1": "Ang Mo Kio Police Division - Hougang NPC",
+    "value": 95
+  },
+  {
+    "year": 2015,
+    "level_1": "Ang Mo Kio Police Division - Punggol NPC",
+    "value": 25
+  },
+  {
+    "year": 2015,
+    "level_1": "Ang Mo Kio Police Division - Sembawang NPC",
+    "value": 17
+  },
+  {
+    "year": 2015,
+    "level_1": "Ang Mo Kio Police Division - Sengkang NPC",
+    "value": 51
+  },
+  {
+    "year": 2015,
+    "level_1": "Ang Mo Kio Police Division - Serangoon NPC",
+    "value": 34
+  },
+  {
+    "year": 2015,
+    "level_1": "Ang Mo Kio Police Division - Yishun North NPC",
+    "value": 49
+  },
+  {
+    "year": 2015,
+    "level_1": "Ang Mo Kio Police Division - Yishun South NPC",
+    "value": 39
+  },
+  {
+    "year": 2015,
+    "level_1": "Bedok Police Division - Total",
+    "value": 438
+  },
+  {
+    "year": 2015,
+    "level_1": "Bedok Police Division - Bedok North NPC",
+    "value": 65
+  },
+  {
+    "year": 2015,
+    "level_1": "Bedok Police Division - Bedok South NPC",
+    "value": 38
+  },
+  {
+    "year": 2015,
+    "level_1": "Bedok Police Division - Changi NPC",
+    "value": 36
+  },
+  {
+    "year": 2015,
+    "level_1": "Bedok Police Division - Geylang NPC",
+    "value": 143
+  },
+  {
+    "year": 2015,
+    "level_1": "Bedok Police Division - Marine Parade NPC",
+    "value": 47
+  },
+  {
+    "year": 2015,
+    "level_1": "Bedok Police Division - Pasir Ris NPC",
+    "value": 33
+  },
+  {
+    "year": 2015,
+    "level_1": "Bedok Police Division - Tampines NPC",
+    "value": 76
+  },
+  {
+    "year": 2015,
+    "level_1": "Jurong Police Division - Total",
+    "value": 455
+  },
+  {
+    "year": 2015,
+    "level_1": "Jurong Police Division - Bukit Batok NPC",
+    "value": 54
+  },
+  {
+    "year": 2015,
+    "level_1": "Jurong Police Division - Bukit Panjang NPC",
+    "value": 47
+  },
+  {
+    "year": 2015,
+    "level_1": "Jurong Police Division - Choa Chu Kang NPC",
+    "value": 80
+  },
+  {
+    "year": 2015,
+    "level_1": "Jurong Police Division - Jurong West NPC",
+    "value": 78
+  },
+  {
+    "year": 2015,
+    "level_1": "Jurong Police Division - Nanyang NPC",
+    "value": 64
+  },
+  {
+    "year": 2015,
+    "level_1": "Jurong Police Division - Woodlands NPC",
+    "value": "-"
+  },
+  {
+    "year": 2015,
+    "level_1": "Jurong Police Division - Woodlands East NPC",
+    "value": 50
+  },
+  {
+    "year": 2015,
+    "level_1": "Jurong Police Division - Woodlands West NPC",
+    "value": 82
+  },
+  {
+    "year": 2015,
+    "level_1": "Woodlands Police Division - Total",
+    "value": "-"
+  },
+  {
+    "year": 2015,
+    "level_1": "Woodlands Police Division - Woodlands East NPC",
+    "value": "-"
+  },
+  {
+    "year": 2015,
+    "level_1": "Woodlands Police Division - Woodlands West NPC",
+    "value": "-"
+  },
+  {
+    "year": 2015,
+    "level_1": "Woodlands Police Division - Yishun North NPC",
+    "value": "-"
+  },
+  {
+    "year": 2015,
+    "level_1": "Woodlands Police Division - Yishun South NPC",
+    "value": "-"
+  },
+  {
+    "year": 2015,
+    "level_1": "Woodlands Police Division - Sembawang NPC",
+    "value": "-"
+  },
+  {
+    "year": 2016,
+    "level_1": "Central Police Division - Total",
+    "value": 216
+  },
+  {
+    "year": 2016,
+    "level_1": "Central Police Division - Bukit Merah East NPC",
+    "value": 55
+  },
+  {
+    "year": 2016,
+    "level_1": "Central Police Division - Marina Bay NPC",
+    "value": 81
+  },
+  {
+    "year": 2016,
+    "level_1": "Central Police Division - Rochor NPC",
+    "value": 80
+  },
+  {
+    "year": 2016,
+    "level_1": "Clementi Police Division - Total",
+    "value": 203
+  },
+  {
+    "year": 2016,
+    "level_1": "Clementi Police Division - Bukit Merah West NPC",
+    "value": 64
+  },
+  {
+    "year": 2016,
+    "level_1": "Clementi Police Division - Clementi NPC",
+    "value": 37
+  },
+  {
+    "year": 2016,
+    "level_1": "Clementi Police Division - Jurong East NPC",
+    "value": 40
+  },
+  {
+    "year": 2016,
+    "level_1": "Clementi Police Division - Queenstown NPC",
+    "value": 62
+  },
+  {
+    "year": 2016,
+    "level_1": "Tanglin Police Division - Total",
+    "value": 267
+  },
+  {
+    "year": 2016,
+    "level_1": "Tanglin Police Division - Bishan NPC",
+    "value": 35
+  },
+  {
+    "year": 2016,
+    "level_1": "Tanglin Police Division - Bukit Timah NPC",
+    "value": 27
+  },
+  {
+    "year": 2016,
+    "level_1": "Tanglin Police Division - Kampong Java NPC",
+    "value": 32
+  },
+  {
+    "year": 2016,
+    "level_1": "Tanglin Police Division - Orchard NPC",
+    "value": 124
+  },
+  {
+    "year": 2016,
+    "level_1": "Tanglin Police Division - Toa Payoh NPC",
+    "value": 49
+  },
+  {
+    "year": 2016,
+    "level_1": "Ang Mo Kio Police Division - Total",
+    "value": 355
+  },
+  {
+    "year": 2016,
+    "level_1": "Ang Mo Kio Police Division - Ang Mo Kio North NPC",
+    "value": 37
+  },
+  {
+    "year": 2016,
+    "level_1": "Ang Mo Kio Police Division - Ang Mo Kio South NPC",
+    "value": 38
+  },
+  {
+    "year": 2016,
+    "level_1": "Ang Mo Kio Police Division - Hougang NPC",
+    "value": 61
+  },
+  {
+    "year": 2016,
+    "level_1": "Ang Mo Kio Police Division - Punggol NPC",
+    "value": 33
+  },
+  {
+    "year": 2016,
+    "level_1": "Ang Mo Kio Police Division - Sembawang NPC",
+    "value": 22
+  },
+  {
+    "year": 2016,
+    "level_1": "Ang Mo Kio Police Division - Sengkang NPC",
+    "value": 42
+  },
+  {
+    "year": 2016,
+    "level_1": "Ang Mo Kio Police Division - Serangoon NPC",
+    "value": 41
+  },
+  {
+    "year": 2016,
+    "level_1": "Ang Mo Kio Police Division - Yishun North NPC",
+    "value": 45
+  },
+  {
+    "year": 2016,
+    "level_1": "Ang Mo Kio Police Division - Yishun South NPC",
+    "value": 35
+  },
+  {
+    "year": 2016,
+    "level_1": "Bedok Police Division - Total",
+    "value": 377
+  },
+  {
+    "year": 2016,
+    "level_1": "Bedok Police Division - Bedok North NPC",
+    "value": 57
+  },
+  {
+    "year": 2016,
+    "level_1": "Bedok Police Division - Bedok South NPC",
+    "value": 35
+  },
+  {
+    "year": 2016,
+    "level_1": "Bedok Police Division - Changi NPC",
+    "value": 24
+  },
+  {
+    "year": 2016,
+    "level_1": "Bedok Police Division - Geylang NPC",
+    "value": 123
+  },
+  {
+    "year": 2016,
+    "level_1": "Bedok Police Division - Marine Parade NPC",
+    "value": 44
+  },
+  {
+    "year": 2016,
+    "level_1": "Bedok Police Division - Pasir Ris NPC",
+    "value": 37
+  },
+  {
+    "year": 2016,
+    "level_1": "Bedok Police Division - Tampines NPC",
+    "value": 57
+  },
+  {
+    "year": 2016,
+    "level_1": "Jurong Police Division - Total",
+    "value": 392
+  },
+  {
+    "year": 2016,
+    "level_1": "Jurong Police Division - Bukit Batok NPC",
+    "value": 49
+  },
+  {
+    "year": 2016,
+    "level_1": "Jurong Police Division - Bukit Panjang NPC",
+    "value": 38
+  },
+  {
+    "year": 2016,
+    "level_1": "Jurong Police Division - Choa Chu Kang NPC",
+    "value": 56
+  },
+  {
+    "year": 2016,
+    "level_1": "Jurong Police Division - Jurong West NPC",
+    "value": 68
+  },
+  {
+    "year": 2016,
+    "level_1": "Jurong Police Division - Nanyang NPC",
+    "value": 67
+  },
+  {
+    "year": 2016,
+    "level_1": "Jurong Police Division - Woodlands NPC",
+    "value": "-"
+  },
+  {
+    "year": 2016,
+    "level_1": "Jurong Police Division - Woodlands East NPC",
+    "value": 51
+  },
+  {
+    "year": 2016,
+    "level_1": "Jurong Police Division - Woodlands West NPC",
+    "value": 63
+  },
+  {
+    "year": 2016,
+    "level_1": "Woodlands Police Division - Total",
+    "value": "-"
+  },
+  {
+    "year": 2016,
+    "level_1": "Woodlands Police Division - Woodlands East NPC",
+    "value": "-"
+  },
+  {
+    "year": 2016,
+    "level_1": "Woodlands Police Division - Woodlands West NPC",
+    "value": "-"
+  },
+  {
+    "year": 2016,
+    "level_1": "Woodlands Police Division - Yishun North NPC",
+    "value": "-"
+  },
+  {
+    "year": 2016,
+    "level_1": "Woodlands Police Division - Yishun South NPC",
+    "value": "-"
+  },
+  {
+    "year": 2016,
+    "level_1": "Woodlands Police Division - Sembawang NPC",
+    "value": "-"
+  },
+  {
+    "year": 2017,
+    "level_1": "Central Police Division - Total",
+    "value": 313
+  },
+  {
+    "year": 2017,
+    "level_1": "Central Police Division - Bukit Merah East NPC",
+    "value": 89
+  },
+  {
+    "year": 2017,
+    "level_1": "Central Police Division - Marina Bay NPC",
+    "value": 134
+  },
+  {
+    "year": 2017,
+    "level_1": "Central Police Division - Rochor NPC",
+    "value": 89
+  },
+  {
+    "year": 2017,
+    "level_1": "Clementi Police Division - Total",
+    "value": 244
+  },
+  {
+    "year": 2017,
+    "level_1": "Clementi Police Division - Bukit Merah West NPC",
+    "value": 64
+  },
+  {
+    "year": 2017,
+    "level_1": "Clementi Police Division - Clementi NPC",
+    "value": 50
+  },
+  {
+    "year": 2017,
+    "level_1": "Clementi Police Division - Jurong East NPC",
+    "value": 64
+  },
+  {
+    "year": 2017,
+    "level_1": "Clementi Police Division - Queenstown NPC",
+    "value": 66
+  },
+  {
+    "year": 2017,
+    "level_1": "Tanglin Police Division - Total",
+    "value": 301
+  },
+  {
+    "year": 2017,
+    "level_1": "Tanglin Police Division - Bishan NPC",
+    "value": 29
+  },
+  {
+    "year": 2017,
+    "level_1": "Tanglin Police Division - Bukit Timah NPC",
+    "value": 25
+  },
+  {
+    "year": 2017,
+    "level_1": "Tanglin Police Division - Kampong Java NPC",
+    "value": 38
+  },
+  {
+    "year": 2017,
+    "level_1": "Tanglin Police Division - Orchard NPC",
+    "value": 158
+  },
+  {
+    "year": 2017,
+    "level_1": "Tanglin Police Division - Toa Payoh NPC",
+    "value": 51
+  },
+  {
+    "year": 2017,
+    "level_1": "Ang Mo Kio Police Division - Total",
+    "value": 385
+  },
+  {
+    "year": 2017,
+    "level_1": "Ang Mo Kio Police Division - Ang Mo Kio North NPC",
+    "value": 34
+  },
+  {
+    "year": 2017,
+    "level_1": "Ang Mo Kio Police Division - Ang Mo Kio South NPC",
+    "value": 35
+  },
+  {
+    "year": 2017,
+    "level_1": "Ang Mo Kio Police Division - Hougang NPC",
+    "value": 55
+  },
+  {
+    "year": 2017,
+    "level_1": "Ang Mo Kio Police Division - Punggol NPC",
+    "value": 30
+  },
+  {
+    "year": 2017,
+    "level_1": "Ang Mo Kio Police Division - Sembawang NPC",
+    "value": 36
+  },
+  {
+    "year": 2017,
+    "level_1": "Ang Mo Kio Police Division - Sengkang NPC",
+    "value": 72
+  },
+  {
+    "year": 2017,
+    "level_1": "Ang Mo Kio Police Division - Serangoon NPC",
+    "value": 29
+  },
+  {
+    "year": 2017,
+    "level_1": "Ang Mo Kio Police Division - Yishun North NPC",
+    "value": 61
+  },
+  {
+    "year": 2017,
+    "level_1": "Ang Mo Kio Police Division - Yishun South NPC",
+    "value": 32
+  },
+  {
+    "year": 2017,
+    "level_1": "Bedok Police Division - Total",
+    "value": 339
+  },
+  {
+    "year": 2017,
+    "level_1": "Bedok Police Division - Bedok North NPC",
+    "value": 43
+  },
+  {
+    "year": 2017,
+    "level_1": "Bedok Police Division - Bedok South NPC",
+    "value": 43
+  },
+  {
+    "year": 2017,
+    "level_1": "Bedok Police Division - Changi NPC",
+    "value": 31
+  },
+  {
+    "year": 2017,
+    "level_1": "Bedok Police Division - Geylang NPC",
+    "value": 104
+  },
+  {
+    "year": 2017,
+    "level_1": "Bedok Police Division - Marine Parade NPC",
+    "value": 35
+  },
+  {
+    "year": 2017,
+    "level_1": "Bedok Police Division - Pasir Ris NPC",
+    "value": 23
+  },
+  {
+    "year": 2017,
+    "level_1": "Bedok Police Division - Tampines NPC",
+    "value": 58
+  },
+  {
+    "year": 2017,
+    "level_1": "Jurong Police Division - Total",
+    "value": 380
+  },
+  {
+    "year": 2017,
+    "level_1": "Jurong Police Division - Bukit Batok NPC",
+    "value": 50
+  },
+  {
+    "year": 2017,
+    "level_1": "Jurong Police Division - Bukit Panjang NPC",
+    "value": 30
+  },
+  {
+    "year": 2017,
+    "level_1": "Jurong Police Division - Choa Chu Kang NPC",
+    "value": 47
+  },
+  {
+    "year": 2017,
+    "level_1": "Jurong Police Division - Jurong West NPC",
+    "value": 59
+  },
+  {
+    "year": 2017,
+    "level_1": "Jurong Police Division - Nanyang NPC",
+    "value": 64
+  },
+  {
+    "year": 2017,
+    "level_1": "Jurong Police Division - Woodlands NPC",
+    "value": "-"
+  },
+  {
+    "year": 2017,
+    "level_1": "Jurong Police Division - Woodlands East NPC",
+    "value": 60
+  },
+  {
+    "year": 2017,
+    "level_1": "Jurong Police Division - Woodlands West NPC",
+    "value": 70
+  },
+  {
+    "year": 2017,
+    "level_1": "Woodlands Police Division - Total",
+    "value": "-"
+  },
+  {
+    "year": 2017,
+    "level_1": "Woodlands Police Division - Woodlands East NPC",
+    "value": "-"
+  },
+  {
+    "year": 2017,
+    "level_1": "Woodlands Police Division - Woodlands West NPC",
+    "value": "-"
+  },
+  {
+    "year": 2017,
+    "level_1": "Woodlands Police Division - Yishun North NPC",
+    "value": "-"
+  },
+  {
+    "year": 2017,
+    "level_1": "Woodlands Police Division - Yishun South NPC",
+    "value": "-"
+  },
+  {
+    "year": 2017,
+    "level_1": "Woodlands Police Division - Sembawang NPC",
+    "value": "-"
+  },
+  {
+    "year": 2018,
+    "level_1": "Central Police Division - Total",
+    "value": 347
+  },
+  {
+    "year": 2018,
+    "level_1": "Central Police Division - Bukit Merah East NPC",
+    "value": 97
+  },
+  {
+    "year": 2018,
+    "level_1": "Central Police Division - Marina Bay NPC",
+    "value": 156
+  },
+  {
+    "year": 2018,
+    "level_1": "Central Police Division - Rochor NPC",
+    "value": 94
+  },
+  {
+    "year": 2018,
+    "level_1": "Clementi Police Division - Total",
+    "value": 213
+  },
+  {
+    "year": 2018,
+    "level_1": "Clementi Police Division - Bukit Merah West NPC",
+    "value": 52
+  },
+  {
+    "year": 2018,
+    "level_1": "Clementi Police Division - Clementi NPC",
+    "value": 40
+  },
+  {
+    "year": 2018,
+    "level_1": "Clementi Police Division - Jurong East NPC",
+    "value": 56
+  },
+  {
+    "year": 2018,
+    "level_1": "Clementi Police Division - Queenstown NPC",
+    "value": 65
+  },
+  {
+    "year": 2018,
+    "level_1": "Tanglin Police Division - Total",
+    "value": 353
+  },
+  {
+    "year": 2018,
+    "level_1": "Tanglin Police Division - Bishan NPC",
+    "value": 44
+  },
+  {
+    "year": 2018,
+    "level_1": "Tanglin Police Division - Bukit Timah NPC",
+    "value": 41
+  },
+  {
+    "year": 2018,
+    "level_1": "Tanglin Police Division - Kampong Java NPC",
+    "value": 33
+  },
+  {
+    "year": 2018,
+    "level_1": "Tanglin Police Division - Orchard NPC",
+    "value": 185
+  },
+  {
+    "year": 2018,
+    "level_1": "Tanglin Police Division - Toa Payoh NPC",
+    "value": 50
+  },
+  {
+    "year": 2018,
+    "level_1": "Ang Mo Kio Police Division - Total",
+    "value": 424
+  },
+  {
+    "year": 2018,
+    "level_1": "Ang Mo Kio Police Division - Ang Mo Kio North NPC",
+    "value": 34
+  },
+  {
+    "year": 2018,
+    "level_1": "Ang Mo Kio Police Division - Ang Mo Kio South NPC",
+    "value": 44
+  },
+  {
+    "year": 2018,
+    "level_1": "Ang Mo Kio Police Division - Hougang NPC",
+    "value": 67
+  },
+  {
+    "year": 2018,
+    "level_1": "Ang Mo Kio Police Division - Punggol NPC",
+    "value": 33
+  },
+  {
+    "year": 2018,
+    "level_1": "Ang Mo Kio Police Division - Sembawang NPC",
+    "value": 32
+  },
+  {
+    "year": 2018,
+    "level_1": "Ang Mo Kio Police Division - Sengkang NPC",
+    "value": 61
+  },
+  {
+    "year": 2018,
+    "level_1": "Ang Mo Kio Police Division - Serangoon NPC",
+    "value": 49
+  },
+  {
+    "year": 2018,
+    "level_1": "Ang Mo Kio Police Division - Yishun North NPC",
+    "value": 64
+  },
+  {
+    "year": 2018,
+    "level_1": "Ang Mo Kio Police Division - Yishun South NPC",
+    "value": 38
+  },
+  {
+    "year": 2018,
+    "level_1": "Bedok Police Division - Total",
+    "value": 377
+  },
+  {
+    "year": 2018,
+    "level_1": "Bedok Police Division - Bedok North NPC",
+    "value": 57
+  },
+  {
+    "year": 2018,
+    "level_1": "Bedok Police Division - Bedok South NPC",
+    "value": 31
+  },
+  {
+    "year": 2018,
+    "level_1": "Bedok Police Division - Changi NPC",
+    "value": 52
+  },
+  {
+    "year": 2018,
+    "level_1": "Bedok Police Division - Geylang NPC",
+    "value": 106
+  },
+  {
+    "year": 2018,
+    "level_1": "Bedok Police Division - Marine Parade NPC",
+    "value": 39
+  },
+  {
+    "year": 2018,
+    "level_1": "Bedok Police Division - Pasir Ris NPC",
+    "value": 36
+  },
+  {
+    "year": 2018,
+    "level_1": "Bedok Police Division - Tampines NPC",
+    "value": 55
+  },
+  {
+    "year": 2018,
+    "level_1": "Jurong Police Division - Total",
+    "value": 417
+  },
+  {
+    "year": 2018,
+    "level_1": "Jurong Police Division - Bukit Batok NPC",
+    "value": 62
+  },
+  {
+    "year": 2018,
+    "level_1": "Jurong Police Division - Bukit Panjang NPC",
+    "value": 46
+  },
+  {
+    "year": 2018,
+    "level_1": "Jurong Police Division - Choa Chu Kang NPC",
+    "value": 56
+  },
+  {
+    "year": 2018,
+    "level_1": "Jurong Police Division - Jurong West NPC",
+    "value": 62
+  },
+  {
+    "year": 2018,
+    "level_1": "Jurong Police Division - Nanyang NPC",
+    "value": 79
+  },
+  {
+    "year": 2018,
+    "level_1": "Jurong Police Division - Woodlands NPC",
+    "value": "-"
+  },
+  {
+    "year": 2018,
+    "level_1": "Jurong Police Division - Woodlands East NPC",
+    "value": 51
+  },
+  {
+    "year": 2018,
+    "level_1": "Jurong Police Division - Woodlands West NPC",
+    "value": 59
+  },
+  {
+    "year": 2018,
+    "level_1": "Woodlands Police Division - Total",
+    "value": 18
+  },
+  {
+    "year": 2018,
+    "level_1": "Woodlands Police Division - Woodlands East NPC",
+    "value": 2
+  },
+  {
+    "year": 2018,
+    "level_1": "Woodlands Police Division - Woodlands West NPC",
+    "value": 7
+  },
+  {
+    "year": 2018,
+    "level_1": "Woodlands Police Division - Yishun North NPC",
+    "value": 6
+  },
+  {
+    "year": 2018,
+    "level_1": "Woodlands Police Division - Yishun South NPC",
+    "value": 1
+  },
+  {
+    "year": 2018,
+    "level_1": "Woodlands Police Division - Sembawang NPC",
+    "value": 2
+  },
+  {
+    "year": 2019,
+    "level_1": "Central Police Division - Total",
+    "value": 304
+  },
+  {
+    "year": 2019,
+    "level_1": "Central Police Division - Bukit Merah East NPC",
+    "value": 73
+  },
+  {
+    "year": 2019,
+    "level_1": "Central Police Division - Marina Bay NPC",
+    "value": 147
+  },
+  {
+    "year": 2019,
+    "level_1": "Central Police Division - Rochor NPC",
+    "value": 84
+  },
+  {
+    "year": 2019,
+    "level_1": "Clementi Police Division - Total",
+    "value": 231
+  },
+  {
+    "year": 2019,
+    "level_1": "Clementi Police Division - Bukit Merah West NPC",
+    "value": 52
+  },
+  {
+    "year": 2019,
+    "level_1": "Clementi Police Division - Clementi NPC",
+    "value": 48
+  },
+  {
+    "year": 2019,
+    "level_1": "Clementi Police Division - Jurong East NPC",
+    "value": 62
+  },
+  {
+    "year": 2019,
+    "level_1": "Clementi Police Division - Queenstown NPC",
+    "value": 69
+  },
+  {
+    "year": 2019,
+    "level_1": "Tanglin Police Division - Total",
+    "value": 321
+  },
+  {
+    "year": 2019,
+    "level_1": "Tanglin Police Division - Bishan NPC",
+    "value": 22
+  },
+  {
+    "year": 2019,
+    "level_1": "Tanglin Police Division - Bukit Timah NPC",
+    "value": 39
+  },
+  {
+    "year": 2019,
+    "level_1": "Tanglin Police Division - Kampong Java NPC",
+    "value": 35
+  },
+  {
+    "year": 2019,
+    "level_1": "Tanglin Police Division - Orchard NPC",
+    "value": 156
+  },
+  {
+    "year": 2019,
+    "level_1": "Tanglin Police Division - Toa Payoh NPC",
+    "value": 69
+  },
+  {
+    "year": 2019,
+    "level_1": "Ang Mo Kio Police Division - Total",
+    "value": 285
+  },
+  {
+    "year": 2019,
+    "level_1": "Ang Mo Kio Police Division - Ang Mo Kio North NPC",
+    "value": 26
+  },
+  {
+    "year": 2019,
+    "level_1": "Ang Mo Kio Police Division - Ang Mo Kio South NPC",
+    "value": 40
+  },
+  {
+    "year": 2019,
+    "level_1": "Ang Mo Kio Police Division - Hougang NPC",
+    "value": 71
+  },
+  {
+    "year": 2019,
+    "level_1": "Ang Mo Kio Police Division - Punggol NPC",
+    "value": 53
+  },
+  {
+    "year": 2019,
+    "level_1": "Ang Mo Kio Police Division - Sembawang NPC",
+    "value": "-"
+  },
+  {
+    "year": 2019,
+    "level_1": "Ang Mo Kio Police Division - Sengkang NPC",
+    "value": 67
+  },
+  {
+    "year": 2019,
+    "level_1": "Ang Mo Kio Police Division - Serangoon NPC",
+    "value": 27
+  },
+  {
+    "year": 2019,
+    "level_1": "Ang Mo Kio Police Division - Yishun North NPC",
+    "value": "-"
+  },
+  {
+    "year": 2019,
+    "level_1": "Ang Mo Kio Police Division - Yishun South NPC",
+    "value": "-"
+  },
+  {
+    "year": 2019,
+    "level_1": "Bedok Police Division - Total",
+    "value": 322
+  },
+  {
+    "year": 2019,
+    "level_1": "Bedok Police Division - Bedok North NPC",
+    "value": 49
+  },
+  {
+    "year": 2019,
+    "level_1": "Bedok Police Division - Bedok South NPC",
+    "value": 37
+  },
+  {
+    "year": 2019,
+    "level_1": "Bedok Police Division - Changi NPC",
+    "value": 22
+  },
+  {
+    "year": 2019,
+    "level_1": "Bedok Police Division - Geylang NPC",
+    "value": 89
+  },
+  {
+    "year": 2019,
+    "level_1": "Bedok Police Division - Marine Parade NPC",
+    "value": 36
+  },
+  {
+    "year": 2019,
+    "level_1": "Bedok Police Division - Pasir Ris NPC",
+    "value": 32
+  },
+  {
+    "year": 2019,
+    "level_1": "Bedok Police Division - Tampines NPC",
+    "value": 56
+  },
+  {
+    "year": 2019,
+    "level_1": "Jurong Police Division - Total",
+    "value": 263
+  },
+  {
+    "year": 2019,
+    "level_1": "Jurong Police Division - Bukit Batok NPC",
+    "value": 52
+  },
+  {
+    "year": 2019,
+    "level_1": "Jurong Police Division - Bukit Panjang NPC",
+    "value": 30
+  },
+  {
+    "year": 2019,
+    "level_1": "Jurong Police Division - Choa Chu Kang NPC",
+    "value": 71
+  },
+  {
+    "year": 2019,
+    "level_1": "Jurong Police Division - Jurong West NPC",
+    "value": 51
+  },
+  {
+    "year": 2019,
+    "level_1": "Jurong Police Division - Nanyang NPC",
+    "value": 59
+  },
+  {
+    "year": 2019,
+    "level_1": "Jurong Police Division - Woodlands NPC",
+    "value": "-"
+  },
+  {
+    "year": 2019,
+    "level_1": "Jurong Police Division - Woodlands East NPC",
+    "value": "-"
+  },
+  {
+    "year": 2019,
+    "level_1": "Jurong Police Division - Woodlands West NPC",
+    "value": "-"
+  },
+  {
+    "year": 2019,
+    "level_1": "Woodlands Police Division - Total",
+    "value": 224
+  },
+  {
+    "year": 2019,
+    "level_1": "Woodlands Police Division - Woodlands East NPC",
+    "value": 56
+  },
+  {
+    "year": 2019,
+    "level_1": "Woodlands Police Division - Woodlands West NPC",
+    "value": 53
+  },
+  {
+    "year": 2019,
+    "level_1": "Woodlands Police Division - Yishun North NPC",
+    "value": 64
+  },
+  {
+    "year": 2019,
+    "level_1": "Woodlands Police Division - Yishun South NPC",
+    "value": 18
+  },
+  {
+    "year": 2019,
+    "level_1": "Woodlands Police Division - Sembawang NPC",
+    "value": 27
+  },
+  {
+    "year": 2020,
+    "level_1": "Central Police Division - Total",
+    "value": 216
+  },
+  {
+    "year": 2020,
+    "level_1": "Central Police Division - Bukit Merah East NPC",
+    "value": 60
+  },
+  {
+    "year": 2020,
+    "level_1": "Central Police Division - Marina Bay NPC",
+    "value": 77
+  },
+  {
+    "year": 2020,
+    "level_1": "Central Police Division - Rochor NPC",
+    "value": 76
+  },
+  {
+    "year": 2020,
+    "level_1": "Clementi Police Division - Total",
+    "value": 203
+  },
+  {
+    "year": 2020,
+    "level_1": "Clementi Police Division - Bukit Merah West NPC",
+    "value": 54
+  },
+  {
+    "year": 2020,
+    "level_1": "Clementi Police Division - Clementi NPC",
+    "value": 43
+  },
+  {
+    "year": 2020,
+    "level_1": "Clementi Police Division - Jurong East NPC",
+    "value": 46
+  },
+  {
+    "year": 2020,
+    "level_1": "Clementi Police Division - Queenstown NPC",
+    "value": 60
+  },
+  {
+    "year": 2020,
+    "level_1": "Tanglin Police Division - Total",
+    "value": 203
+  },
+  {
+    "year": 2020,
+    "level_1": "Tanglin Police Division - Bishan NPC",
+    "value": 19
+  },
+  {
+    "year": 2020,
+    "level_1": "Tanglin Police Division - Bukit Timah NPC",
+    "value": 29
+  },
+  {
+    "year": 2020,
+    "level_1": "Tanglin Police Division - Kampong Java NPC",
+    "value": 38
+  },
+  {
+    "year": 2020,
+    "level_1": "Tanglin Police Division - Orchard NPC",
+    "value": 63
+  },
+  {
+    "year": 2020,
+    "level_1": "Tanglin Police Division - Toa Payoh NPC",
+    "value": 53
+  },
+  {
+    "year": 2020,
+    "level_1": "Ang Mo Kio Police Division - Total",
+    "value": 225
+  },
+  {
+    "year": 2020,
+    "level_1": "Ang Mo Kio Police Division - Ang Mo Kio North NPC",
+    "value": 36
+  },
+  {
+    "year": 2020,
+    "level_1": "Ang Mo Kio Police Division - Ang Mo Kio South NPC",
+    "value": 12
+  },
+  {
+    "year": 2020,
+    "level_1": "Ang Mo Kio Police Division - Hougang NPC",
+    "value": 51
+  },
+  {
+    "year": 2020,
+    "level_1": "Ang Mo Kio Police Division - Punggol NPC",
+    "value": 43
+  },
+  {
+    "year": 2020,
+    "level_1": "Ang Mo Kio Police Division - Sembawang NPC",
+    "value": "-"
+  },
+  {
+    "year": 2020,
+    "level_1": "Ang Mo Kio Police Division - Sengkang NPC",
+    "value": 56
+  },
+  {
+    "year": 2020,
+    "level_1": "Ang Mo Kio Police Division - Serangoon NPC",
+    "value": 25
+  },
+  {
+    "year": 2020,
+    "level_1": "Ang Mo Kio Police Division - Yishun North NPC",
+    "value": "-"
+  },
+  {
+    "year": 2020,
+    "level_1": "Ang Mo Kio Police Division - Yishun South NPC",
+    "value": "-"
+  },
+  {
+    "year": 2020,
+    "level_1": "Bedok Police Division - Total",
+    "value": 259
+  },
+  {
+    "year": 2020,
+    "level_1": "Bedok Police Division - Bedok North NPC",
+    "value": 43
+  },
+  {
+    "year": 2020,
+    "level_1": "Bedok Police Division - Bedok South NPC",
+    "value": 20
+  },
+  {
+    "year": 2020,
+    "level_1": "Bedok Police Division - Changi NPC",
+    "value": 14
+  },
+  {
+    "year": 2020,
+    "level_1": "Bedok Police Division - Geylang NPC",
+    "value": 76
+  },
+  {
+    "year": 2020,
+    "level_1": "Bedok Police Division - Marine Parade NPC",
+    "value": 36
+  },
+  {
+    "year": 2020,
+    "level_1": "Bedok Police Division - Pasir Ris NPC",
+    "value": 27
+  },
+  {
+    "year": 2020,
+    "level_1": "Bedok Police Division - Tampines NPC",
+    "value": 42
+  },
+  {
+    "year": 2020,
+    "level_1": "Jurong Police Division - Total",
+    "value": 252
+  },
+  {
+    "year": 2020,
+    "level_1": "Jurong Police Division - Bukit Batok NPC",
+    "value": 47
+  },
+  {
+    "year": 2020,
+    "level_1": "Jurong Police Division - Bukit Panjang NPC",
+    "value": 36
+  },
+  {
+    "year": 2020,
+    "level_1": "Jurong Police Division - Choa Chu Kang NPC",
+    "value": 63
+  },
+  {
+    "year": 2020,
+    "level_1": "Jurong Police Division - Jurong West NPC",
+    "value": 47
+  },
+  {
+    "year": 2020,
+    "level_1": "Jurong Police Division - Nanyang NPC",
+    "value": 57
+  },
+  {
+    "year": 2020,
+    "level_1": "Jurong Police Division - Woodlands NPC",
+    "value": "-"
+  },
+  {
+    "year": 2020,
+    "level_1": "Jurong Police Division - Woodlands East NPC",
+    "value": "-"
+  },
+  {
+    "year": 2020,
+    "level_1": "Jurong Police Division - Woodlands West NPC",
+    "value": "-"
+  },
+  {
+    "year": 2020,
+    "level_1": "Woodlands Police Division - Total",
+    "value": 229
+  },
+  {
+    "year": 2020,
+    "level_1": "Woodlands Police Division - Woodlands East NPC",
+    "value": 49
+  },
+  {
+    "year": 2020,
+    "level_1": "Woodlands Police Division - Woodlands West NPC",
+    "value": 43
+  },
+  {
+    "year": 2020,
+    "level_1": "Woodlands Police Division - Yishun North NPC",
+    "value": 59
+  },
+  {
+    "year": 2020,
+    "level_1": "Woodlands Police Division - Yishun South NPC",
+    "value": 26
+  },
+  {
+    "year": 2020,
+    "level_1": "Woodlands Police Division - Sembawang NPC",
+    "value": 45
+  }
+]

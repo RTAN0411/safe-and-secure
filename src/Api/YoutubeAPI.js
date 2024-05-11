@@ -1,5 +1,5 @@
 import axios from 'axios';
-const KEY = 'AIzaSyCVIwSL73-rqCC7SWbsWibLFh7mHv3ceoY'
+const KEY = '' //INSERT YOUR API KEY HERE
 
 /**
  * Get the API from online website

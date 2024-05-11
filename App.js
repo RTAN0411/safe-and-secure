@@ -16,7 +16,7 @@ import * as firebase from 'firebase';
 
 try {
   firebase.initializeApp({
-    apiKey: "AIzaSyDzlXPAbO_MnmnkKNGObAb9ZEZ4FAQ-IWs",
+    apiKey: "", //INSERT YOUR API KEY HERE
     authDomain: "safeand-f61bd.firebaseapp.com",
     projectId: "safeand-f61bd",
     storageBucket: "safeand-f61bd.appspot.com",
